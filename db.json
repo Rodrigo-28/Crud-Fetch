@@ -1,35 +1,35 @@
 {
-    "Empresa": [
-      {
-        "id": 4,
-        "nombre": "Apple",
-        "valor de impuesto": 145000
-      },
-      {
-        "id": 5,
-        "nombre": "tecnopolis",
-        "valor de impuesto": 10000
-      },
-      {
-        "nombre": "torazzo",
-        "valor de impuesto": "150000",
-        "id": 7
-      },
-      {
-        "nombre": "sancor",
-        "valor de impuesto": "850000",
-        "id": 8
-      },
-      {
-        "nombre": "sancor",
-        "valor de impuesto": "45111",
-        "id": 9
-      },
-      {
-        "nombre": "fornarina",
-        "valor de impuesto": "4444444",
-        "id": 10
-      }
-    ],
-    
-  }
+  "Empresa": [
+    {
+      "id": 4,
+      "nombre": "Apple",
+      "valor de impuesto": 145000
+    },
+    {
+      "id": 5,
+      "nombre": "tecnopolis",
+      "valor de impuesto": 10000
+    },
+    {
+      "nombre": "torazzo",
+      "valor de impuesto": "150000",
+      "id": 7
+    },
+    {
+      "nombre": "sancor",
+      "valor de impuesto": "850000",
+      "id": 8
+    },
+    {
+      "nombre": "sancor",
+      "valor de impuesto": "45111",
+      "id": 9
+    },
+    {
+      "nombre": "fornarina",
+      "valor de impuesto": "4444444",
+      "id": 10
+    }
+   
+  ]
+}
