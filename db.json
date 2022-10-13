@@ -1,9 +1,9 @@
 {
   "Empresa": [
     {
-      "id": 4,
-      "nombre": "Apple",
-      "valor de impuesto": 145000
+      "nombre": "aple",
+      "valor de impuesto": "145000",
+      "id": 4
     },
     {
       "id": 5,
@@ -21,15 +21,9 @@
       "id": 8
     },
     {
-      "nombre": "sancor",
-      "valor de impuesto": "45111",
+      "nombre": "Globant ",
+      "valor de impuesto": "154",
       "id": 9
-    },
-    {
-      "nombre": "fornarina",
-      "valor de impuesto": "4444444",
-      "id": 10
     }
-   
   ]
 }
